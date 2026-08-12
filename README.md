@@ -777,7 +777,7 @@ docs/screenshots/
 Recommended files:
 
 ```text
-docs/screenshots/landing.png
+https://github.com/zainam-decodes/careergraph/blob/main/Matching.png
 docs/screenshots/explore.png
 docs/screenshots/matches.png
 docs/screenshots/graph.png
