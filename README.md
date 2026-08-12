@@ -779,11 +779,11 @@ Example:
 
 ![CareerGraph Landing Page](https://github.com/zainam-decodes/careergraph/blob/main/LandPage.png)
 
-![CareerGraph Explore](docs/screenshots/explore.png)
+![CareerGraph Explore](https://github.com/zainam-decodes/careergraph/blob/main/explore.png)
 
-![CareerGraph Matches](docs/screenshots/matches.png)
+![CareerGraph Matches](https://github.com/zainam-decodes/careergraph/blob/main/Matching.png)
 
-![CareerGraph Graph](docs/screenshots/graph.png)
+![CareerGraph Graph](https://github.com/zainam-decodes/careergraph/blob/main/graph.png)
 
 ---
 
@@ -799,6 +799,9 @@ The short screen recording demonstrates the complete end-to-end workflow:
 6. Review missing skills.
 7. Open a career path.
 8. Explore the connected graph.
+
+
+![DEMO VIDEO LINK HERE ](https://github.com/zainam-decodes/careergraph/blob/main/home.webp)
 
 ---
 
