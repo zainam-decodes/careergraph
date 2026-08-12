@@ -783,7 +783,7 @@ Example:
 
 ![CareerGraph Matches](https://github.com/zainam-decodes/careergraph/blob/main/Matching.png)
 
-![CareerGraph Graph](https://github.com/zainam-decodes/careergraph/blob/main/graph.png)
+![CareerGraph Graph](https://github.com/zainam-decodes/careergraph/blob/main/Graph.png)
 
 ---
 
