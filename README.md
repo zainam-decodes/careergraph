@@ -774,18 +774,10 @@ Screenshots should be added to:
 docs/screenshots/
 ```
 
-Recommended files:
-
-```text
-https://github.com/zainam-decodes/careergraph/blob/main/Matching.png
-docs/screenshots/explore.png
-docs/screenshots/matches.png
-docs/screenshots/graph.png
-```
 
 Example:
 
-![CareerGraph Landing Page](docs/screenshots/landing.png)
+![CareerGraph Landing Page](https://github.com/zainam-decodes/careergraph/blob/main/LandPage.png)
 
 ![CareerGraph Explore](docs/screenshots/explore.png)
 
