@@ -16,12 +16,15 @@ app = FastAPI(
 
 
 # Allow the frontend to communicate with FastAPI.
-# During development, allow the local frontend.
+# List all permitted origins explicitly — wildcard cannot be used with allow_credentials=True.
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
+        # Local development
         "http://localhost:3000",
         "http://localhost:5173",
+        # Production — deployed frontend on Render
+        "https://careergraph-1-7pm4.onrender.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],
